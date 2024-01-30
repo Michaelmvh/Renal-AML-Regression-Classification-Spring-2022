@@ -1,4 +1,4 @@
-# Renal-AML-Spring-2022
+# Renal-AML-Regression-Classification-Spring-2022
 
 **Disclaimer:**  Some links have been removed, this is a copy of the file saved for the University of Wisconsin - Madison Informatic Skunkworks group as a part of their records. Please keep in mind that this was an end-of-semester summary written by me with no intention of this being used for anything, especially publication.
 
